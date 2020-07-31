@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "python goto commanded implemented in trace"
+name = "trace-goto"
+optional = false
+python-versions = "*"
+version = "0.0.2.2"
+
+[metadata]
+content-hash = "78728a6e4627fb2fb97510e344a03b06285b0d57285a05564acba42da635d451"
+python-versions = "^3.8"
+
+[metadata.files]
+trace-goto = [
+    {file = "trace_goto-0.0.2.2-py3-none-any.whl", hash = "sha256:b930d257af5bc734d675c3717a2c88a0cb7691b2ffdcdd01076d0727729e01ee"},
+    {file = "trace_goto-0.0.2.2.tar.gz", hash = "sha256:3603c3dea0b418f72f9393ed679749d2c3ccd8d655b8511432a9526f94936118"},
+]
